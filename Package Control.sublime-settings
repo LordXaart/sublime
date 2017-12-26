@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Colorsublime",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Material Monokai",
+		"Material Theme",
+		"MatlabFilenameAutoComplete",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SummitLinter",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
